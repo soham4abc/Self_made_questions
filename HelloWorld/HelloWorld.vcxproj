@@ -139,8 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1stnumber_of_threedigit.cpp" />
     <ClCompile Include="29_10_20.cpp" />
+    <ClCompile Include="array_one-after_other.cpp" />
+    <ClCompile Include="Hacker_pattern.cpp" />
+    <ClCompile Include="hojoborolocpp.cpp" />
     <ClCompile Include="Pattern_1.cpp" />
+    <ClCompile Include="Pattern_debug.cpp" />
+    <ClCompile Include="petersen.cpp" />
+    <ClCompile Include="Rhombus.cpp" />
+    <ClCompile Include="string_addition.cpp" />
+    <ClCompile Include="SwitchCasecpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
